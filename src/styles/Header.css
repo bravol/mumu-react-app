@@ -1,0 +1,17 @@
+.header-option {
+  display: grid;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #fff;
+}
+
+/* .header-option1 { */
+/* font-size: 12px; */
+/* font-weight: 400; */
+/* } */
+
+.header-option2 {
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Arial, sans-serif;
+}
